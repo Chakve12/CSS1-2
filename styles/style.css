@@ -1,0 +1,160 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body {
+    width: 1920px;
+    height: 2362px;
+}
+
+#Title {
+    text-align: center;
+    font-size: 72px;
+    font-family: Lato; 
+}
+
+
+#section1 {
+    width: 568px;
+    margin-left: 55px;
+}
+
+#sectionTitle1 {
+    font-size: 40px;
+    font-family: Lato;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+#Description {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    width: 100%;
+}
+
+#Description p span {
+    display: block;
+}
+
+#List {
+    color: #155EEF;
+    font-family: Lato;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+#List ol {
+    padding-left: 15px;
+}
+
+#RM {
+    color: rgba(206, 162, 1, 1);
+    font-size: 24px;
+    font-family: Lato;
+    line-height: 32px;
+    border: 2px solid #CEA201;
+    margin-top: 32px;
+    width: 181px;
+    text-align: center;
+    
+
+    /* Paddings */
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+
+#section2 {
+    width: 722px;
+    margin-left: 55px;
+}
+
+#sectionTitle2 {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Lato;
+    text-transform: uppercase;
+    margin-top: 86px;
+}
+
+#Description2 {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Lato;
+    line-height: 24px;
+    color: #414651;
+    text-align: center;
+    margin-top: 16px;
+
+}
+#Description2 span {
+    display: block;
+}
+
+#HHIT {
+    color: rgba(0, 199, 110, 1);
+    font-size: 20px;
+    font-family: Lato;
+    line-height: 24px;
+    text-align: center;
+    margin-top: 24px;
+}
+
+#List2 {
+    color: #FF5DA3;
+    font-size: 16px;
+    font-family: Lato;
+    line-height: 24px;
+    padding-left: 130px;
+    padding-right: 120px;
+}
+
+#WDWSI {
+    color: #414651;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 24px;
+    font-family: Lato;
+    margin-top: 24px;
+    padding: 16px 16px;
+    border: 6px solid #C11574;
+    background-color: #FFDEF0;
+    margin-bottom: 24px;
+}
+
+#UnorderedList {
+    color: rgba(194, 117, 18, 1);
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Lato;
+    
+}
+
+.padding {
+    padding-right: 12px;
+}
+
+.padding2 {
+    padding-right: 12px;
+}
+
+.padding3 {
+    padding-right: 12px;
+}
+
+#Link {
+    color: #00D4BC;
+    font-size: 24px;
+    line-height: 32px;
+    font-family: Lato;
+    text-align: right; 
+}
+
+
